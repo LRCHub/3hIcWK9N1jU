@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "トビウオ",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-03-11T09:44:06.382561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トビウオ",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/01_トビウオ_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トビウオ",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/02_トビウオ_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トビウオ",
+      "artist": "WANIMA",
+      "has_synced": true,
+      "path": "select/03_トビウオ_WANIMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トビウオ",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_トビウオ_WANIMA.txt"
+    }
+  ]
+}
